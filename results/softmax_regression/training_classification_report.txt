@@ -1,0 +1,17 @@
+Classification Report for Training Set:
+                   precision    recall  f1-score   support
+
+        AskReddit       0.93      0.99      0.96       260
+            books       0.99      0.97      0.98       227
+explainlikeimfive       1.00      1.00      1.00       259
+           gaming       0.97      0.96      0.97       239
+           movies       0.99      0.98      0.99       256
+         politics       0.99      0.99      0.99       269
+          science       1.00      1.00      1.00       234
+           sports       1.00      0.99      1.00       242
+       technology       0.98      0.98      0.98       248
+        worldnews       1.00      0.98      0.99       247
+
+         accuracy                           0.98      2481
+        macro avg       0.98      0.98      0.98      2481
+     weighted avg       0.98      0.98      0.98      2481

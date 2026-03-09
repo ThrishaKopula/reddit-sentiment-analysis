@@ -1,0 +1,14 @@
+class,precision,recall,f1-score,support
+AskReddit,1.0,1.0,1.0,53.0
+books,1.0,1.0,1.0,50.0
+explainlikeimfive,1.0,1.0,1.0,53.0
+gaming,1.0,1.0,1.0,57.0
+movies,1.0,1.0,1.0,37.0
+politics,1.0,1.0,1.0,38.0
+science,1.0,1.0,1.0,57.0
+sports,1.0,1.0,1.0,52.0
+technology,1.0,1.0,1.0,52.0
+worldnews,1.0,1.0,1.0,46.0
+accuracy,1.0,1.0,1.0,1.0
+macro avg,1.0,1.0,1.0,495.0
+weighted avg,1.0,1.0,1.0,495.0
